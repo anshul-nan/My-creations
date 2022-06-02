@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+.line
+{
+    width: 70px;
+    height: 6px;
+    background-color: aqua;
+    margin: 8px auto;
+}
+img{
+    height: 350px;
+    width: 300px;
+}
+#mycarousel img{
+height: 300px;
+margin-top:35px;
+background-color: #ffb703;
+}
+#apps{
+    background: linear-gradient(#d4a373 20%,#283618 40%,#219ebc 60%,#ffafcc 100%) ;
+
+}
+.carousel-inner p{
+margin-top: 15px;
+color:#023047;
+font-size: 20px;
+}
+
+
+.carousel-inner{
+    background: linear-gradient(#d4a373 20%,#283618 40%,#219ebc 60%,#ffafcc 100%) ;; 
+}
+#Chatbot{
+    background:linear-gradient(#e9c46a 30%,#ffafcc 60%,#cdb4db 100%) ;
+}
